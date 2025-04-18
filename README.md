@@ -44,34 +44,26 @@ pandas
 matplotlib
 ```
 
-🚀 ¿Cómo usarlo?
+## 🚀 ¿Cómo usarlo?
 
-Abre Google Colab y carga AluraStoreLatam.ipynb.
+1. Abre **Google Colab** o tu **Jupyter Notebook** y carga `exploracion.ipynb`.
+2. Ejecuta las celdas en orden:
+   - **Carga de datos** desde GitHub.
+   - **Limpieza y exploración** para ver nulos o irregularidades.
+   - **Cálculo de métricas**: ingresos, ventas por categoría, calificaciones, top/bottom productos, costo de envío.
+   - **Visualizaciones**: gráficos de barras, pastel, boxplot, línea y mapas.
+3. Observa al final los **gráficos resumen** para identificar la tienda con menor rendimiento.
 
-Ejecuta las celdas en orden:
+---
 
-Carga de datos desde GitHub.
+## 🔍 ¿Qué analizamos?
 
-Limpieza y exploración para ver nulos o irregularidades.
+1. **Ingresos Totales**: ¿Cuál tienda factura más? 💰
+2. **Ventas por Categoría**: ¿Qué productos dominan? 🛋️📱🧸
+3. **Satisfacción del Cliente**: ¿Cómo califican las tiendas? ⭐
+4. **Top/Bottom Productos**: Lo que más y menos se vende. 🏆👇
+5. **Costo de Envío Promedio**: ¿Quién cobra más por el envío? 🚚
+6. **Análisis Geográfico (Opcional)**: Mapa de dispersión y heatmap para ver dónde compran más. 🗺️
+7. **Resumen Gráfico**: Tres gráficos clave para entenderlo todo de un vistazo.
 
-Cálculo de métricas: ingresos, ventas por categoría, calificaciones, top/bottom productos, costo de envío.
-
-Visualizaciones: gráficos de barras, pastel, boxplot, línea y mapas.
-
-Observa al final los gráficos resumen para identificar la tienda con menor rendimiento.
-
-🔍 ¿Qué analizamos?
-
-Ingresos Totales: ¿Cuál tienda factura más? 💰
-
-Ventas por Categoría: ¿Qué productos dominan? 🛋️📱🧸
-
-Satisfacción del Cliente: ¿Cómo califican las tiendas? ⭐
-
-Top/Bottom Productos: Lo que más y menos se vende. 🏆👇
-
-Costo de Envío Promedio: ¿Quién cobra más por el envío? 🚚
-
-Análisis Geográfico (Opcional): Mapa de dispersión y heatmap para ver dónde compran más. 🗺️
-
-Resumen Gráfico: Tres gráficos clave para entenderlo todo de un vistazo.
+---
