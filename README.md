@@ -4,9 +4,12 @@ Hola 👋, aquí encontrarás todo lo necesario para entender cómo vimos las ve
 
 📂 ¿Qué hay en este repositorio?
 
+
 ├── README.md                # Este archivo: guía y contexto del proyecto
 
+
 ├── AluraStoreLatam.ipynb    # Notebook con todo el análisis paso a paso en Colab
+
 
 └── data/
 
