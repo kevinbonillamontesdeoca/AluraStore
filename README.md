@@ -4,20 +4,27 @@ Hola 👋, aquí encontrarás todo lo necesario para entender cómo vimos las ve
 
 📂 ¿Qué hay en este repositorio?
 
-📂 alura-store-analysis/
-README.md: Guía y contexto del proyecto.
+En la pestaña Code de GitHub verás una estructura de carpetas similar a esta:
 
-exploracion.ipynb: Notebook con el análisis paso a paso en Colab.
+alura-store-analysis/
+├── README.md               # Guía y contexto del proyecto
+├── exploracion.ipynb       # Notebook con análisis paso a paso en Colab
+└── data/
+    ├── tienda_1.csv        # Datos de ventas de la Tienda 1
+    ├── tienda_2.csv        # Datos de ventas de la Tienda 2
+    ├── tienda_3.csv        # Datos de ventas de la Tienda 3
+    └── tienda_4.csv        # Datos de ventas de la Tienda 4
 
-data/
+README.md: documentación principal y guía de uso.
 
-tienda_1.csv: Datos de ventas Tienda 1.
+exploracion.ipynb: notebook de Google Colab con todo el análisis.
 
-tienda_2.csv: Datos de ventas Tienda 2.
+data/: carpeta con los archivos CSV de cada tienda.
+principal y guía de uso.
 
-tienda_3.csv: Datos de ventas Tienda 3.
+exploracion.ipynb: notebook de Google Colab con todo el análisis.
 
-tienda_4.csv: Datos de ventas Tienda 4.
+data/: carpeta que agrupa los archivos CSV de cada tienda.
 
 🛠️ Cómo empezar
 
