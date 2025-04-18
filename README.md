@@ -1,19 +1,18 @@
-🚀 ¡Bienvenido al Análisis de Datos de Alura Store!
+## 🚀 ¡Bienvenido al Análisis de Datos de Alura Store!
 
 Hola 👋, aquí encontrarás todo lo necesario para entender cómo vimos las ventas de las 4 tiendas de Alura Store y recomendamos cuál sería la mejor para vender.
 
-📂 ¿Qué hay en este repositorio?
+## 🗂️ Estructura del proyecto
 
-En la pestaña Code de GitHub verás una estructura de carpetas similar a esta:
-
-alura-store-analysis/
-├── README.md               # Guía y contexto del proyecto
-├── exploracion.ipynb       # Notebook con análisis paso a paso en Colab
-└── data/
-    ├── tienda_1.csv        # Datos de ventas de la Tienda 1
-    ├── tienda_2.csv        # Datos de ventas de la Tienda 2
-    ├── tienda_3.csv        # Datos de ventas de la Tienda 3
-    └── tienda_4.csv        # Datos de ventas de la Tienda 4
+```
+AluraStore/
+├── 1.csv
+├── 2.csv
+├── 3.csv
+├── 4.csv
+├── AluraStoreLatam.ipynb
+└── README.md
+```
 
 README.md: documentación principal y guía de uso.
 
