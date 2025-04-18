@@ -9,9 +9,13 @@ Hola 👋, aquí encontrarás todo lo necesario para entender cómo vimos las ve
 ├── AluraStoreLatam.ipynb    # Notebook con todo el análisis paso a paso en Colab
 
 └── data/
+
     ├── tienda_1.csv         # Ventas de la Tienda 1
+    
     ├── tienda_2.csv         # Ventas de la Tienda 2
+
     ├── tienda_3.csv         # Ventas de la Tienda 3
+    
     └── tienda_4.csv         # Ventas de la Tienda 4
 
 🛠️ Cómo empezar
