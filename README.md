@@ -6,46 +6,43 @@ Hola 👋, aquí encontrarás todo lo necesario para entender cómo vimos las ve
 
 ```
 AluraStore/
-├── 1.csv
-├── 2.csv
-├── 3.csv
-├── 4.csv
+├── tienda_1.csv
+├── tienda_2.csv
+├── tienda_3.csv
+├── tienda_4.csv
 ├── AluraStoreLatam.ipynb
 └── README.md
 ```
-
-README.md: documentación principal y guía de uso.
-
-exploracion.ipynb: notebook de Google Colab con todo el análisis.
-
-data/: carpeta con los archivos CSV de cada tienda.
-principal y guía de uso.
-
-exploracion.ipynb: notebook de Google Colab con todo el análisis.
-
-data/: carpeta que agrupa los archivos CSV de cada tienda.
 
 🛠️ Cómo empezar
 
 Clona este repositorio:
 
+```
 git clone https://github.com/kevinbonillamontesdeoca/AluraStore.git
 cd AluraStore
+```
 
 Crea un entorno virtual (opcional, pero recomendado):
 
+```
 python3 -m venv venv
 source venv/bin/activate   # Linux/macOS
 venv\Scripts\activate    # Windows
+```
 
 Instala las dependencias:
 
+```
 pip install -r requirements.txt
+```
 
 El archivo requirements.txt incluye:
 
+```
 pandas
 matplotlib
+```
 
 🚀 ¿Cómo usarlo?
 
